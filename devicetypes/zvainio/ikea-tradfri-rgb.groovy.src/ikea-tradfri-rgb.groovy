@@ -35,7 +35,7 @@
 import physicalgraph.zigbee.zcl.DataType
 
 metadata {
-  definition (name: "IKEA Tradfri RGB Light", namespace: "puzzle-star", author: "Pedro Garcia") {
+  definition (name: "IKEA Tradfri RGB Light", namespace: "zvainio", author: "Pedro Garcia") {
 
     // Hard Capabilities
     capability "Light"
